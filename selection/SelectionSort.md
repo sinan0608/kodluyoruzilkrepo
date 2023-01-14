@@ -1,4 +1,4 @@
-#Selection Sort Projesi
+# Selection Sort Projesi
 
 [**22**,27,16,**2**,18,6]  ---> n
 [2,**27**,16,22,18,**6**]  ---> n-1
@@ -11,7 +11,7 @@
 ***18 sayısı bu dizide 1.Average case: Aradığımız sayının ortada olma durumunu sağlar.***
 
 
-####Dizinin selection sort'a göre ilk 4 adımını yazınız.
+#### Dizinin selection sort'a göre ilk 4 adımını yazınız.
 
 [**7**,3,5,8,**2**,9,4,15,6] --> n 
 [2,3,**5**,8,7,9,**4**,15,6] --> n-1    **1.adım**
