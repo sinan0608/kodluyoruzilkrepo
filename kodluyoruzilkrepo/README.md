@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![proje resmi](https://github.com/sinan0608/kodluyoruzilkrepo/blob/main/figures/proje.PNG)
+![proje resmi](https://github.com/sinan0608/kodluyoruzilkrepo/blob/main/kodluyoruzilkrepo/figures/proje.PNG)
 
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
